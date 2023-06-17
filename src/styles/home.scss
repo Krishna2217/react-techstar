@@ -4,7 +4,7 @@
     width: 100%;
     height: 100vh;
     background-color: $second;
-
+    border-radius: 0 0 200px 200px;
 
     >main{
         position:absolute;
@@ -33,7 +33,8 @@
         height: 100%;
         position: absolute;
         background: no-repeat center/auto url("../assets/1.png");
-        filter:blur(3px);
+        filter:blur(2px);
+        border-radius: 0 0 200px 200px;
     }
 }
 .home2{
@@ -44,7 +45,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    // margin-top: -200px;
+    margin-top: -200px;
 
     > img{
         width: 30%;
