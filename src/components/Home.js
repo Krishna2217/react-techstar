@@ -22,9 +22,9 @@ const Home = () => {
         <div className="home3" id="about">
             <div>
 
-                <h1>Who we are</h1>
+                <h2>Who we are?</h2>
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi, quae perferendis pariatur voluptates numquam atque placeat quasi cum quis quaerat cupiditate maiores consequuntur! Dolorem totam nesciunt eaque perspiciatis rerum ab sequi consequuntur asperiores cumque, quisquam quis? Quasi modi sunt nihil aut quaerat. Expedita provident eligendi reiciendis et accusantium pariatur reprehenderit obcaecati voluptates, eveniet rerum laboriosam, nostrum beatae, qui molestias ducimus vel. Qui enim itaque voluptates id quam earum nobis quae, vitae aliquid odio tenetur minima quos. Ex corrupti tempora cum, neque amet asperiores, itaque illum, facilis temporibus beatae animi repudiandae atque nam vitae dolore. Ratione ex similique nemo rem quos?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam quis officiis fugit sunt dolores nostrum tenetur iusto est odio mollitia. Dolor placeat repellendus officia aspernatur dolorum harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium quia tempore. Dignissimos esse sequi numquam est ipsam nemo, voluptas vel recusandae iste aspernatur qui quasi, commodi, atque ipsa dolores tempore asperiores? Dolores soluta placeat molestiae aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit similique maxime praesentium sunt unde necessitatibus voluptates ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat, qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum sed cumque corporis voluptate quibusdam nostrum quod saepe
                 </p>
             </div>
         </div>
@@ -32,22 +32,22 @@ const Home = () => {
             <div>
                 <h1>Brands</h1>
                 <article>
-                    <div style={{animationDelay:"0.3s"}}>
+                    <div style={{animationDelay:"0.3s",}}>
                     <AiFillGoogleCircle />
                     <p>Google</p>
                     </div>
 
-                    <div style={{animationDelay:"0.5s"}}>
+                    <div style={{animationDelay:"0.5s",}}>
                     <AiFillAmazonCircle />
                     <p>Amazon</p>
                     </div>
 
-                    <div style={{animationDelay:"0.7s"}}>
+                    <div style={{animationDelay:"0.7s",}}>
                     <AiFillYoutube />
                     <p>Youtube</p>
                     </div>
 
-                    <div style={{animationDelay:"0.1s"}}>
+                    <div style={{animationDelay:"1s",}}>
                     <AiFillInstagram />
                     <p>Instagram</p>
                     </div>

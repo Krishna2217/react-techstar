@@ -17,7 +17,7 @@ const Footer = () => {
                 <div>
                     <a href="https://www.instagram.com/_krishna_v_2.0/" target={'blank'}>Youtube</a>
                     <a href="https://www.instagram.com/_krishna_v_2.0/" target={'blank'}>Instagram</a>
-                    <a href="https://www.instagram.com/_krishna_v_2.0/" target={'blank'}> Github</a>
+                    <a href="https://github.com/Krishna2217" target={'blank'}> Github</a>
                 </div>
             </div>
         </footer>

@@ -24,9 +24,9 @@ nav{
             color: $dark;
             margin: 1rem;
 
-        }
-        & :hover{
-            color:$third;
+            & :hover{
+                color:$third;
+            }
         }
     }
 }

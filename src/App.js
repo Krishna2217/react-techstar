@@ -10,7 +10,7 @@ import "./styles/App.scss"
 import "./styles/header.scss"
 import "./styles/home.scss"
 import "./styles/footer.scss"
-import "./styles/Contact.scss"
+import "./styles/contact.scss"
 import "./styles/mediaquery.scss"
 
 
