@@ -24,7 +24,9 @@ const Home = () => {
 
                 <h2>Who we are?</h2>
                 <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam quis officiis fugit sunt dolores nostrum tenetur iusto est odio mollitia. Dolor placeat repellendus officia aspernatur dolorum harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium quia tempore. Dignissimos esse sequi numquam est ipsam nemo, voluptas vel recusandae iste aspernatur qui quasi, commodi, atque ipsa dolores tempore asperiores? Dolores soluta placeat molestiae aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit similique maxime praesentium sunt unde necessitatibus voluptates ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat, qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum sed cumque corporis voluptate quibusdam nostrum quod saepe
+                    My name is Krishna Kumar Raut, and I am currently pursuing my studies in computer science engineering at VIT Vellore Campus. As a frontend developer, I have honed my skills in creating visually appealing and user-friendly interfaces. My programming knowledge allows me to tackle complex problems and find effective solutions.
+                    TechStar is a cutting-edge web application designed to provide a comprehensive platform for tech enthusiasts. As a frontend developer, my focus was on creating a visually appealing and intuitive user interface. By implementing modern design principles and utilizing my knowledge of HTML, CSS, and JavaScript, I ensured a seamless and engaging user experience.
+                    Moreover, my problem-solving abilities were put to the test in this project. I tackled complex challenges and devised efficient solutions, leveraging my deep understanding of data structures and algorithms. This enabled me to optimize the performance of the TechStar application and ensure smooth functionality.
                 </p>
             </div>
         </div>
